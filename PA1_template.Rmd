@@ -3,6 +3,7 @@ title: "Activity"
 author: "Ty Swarts"
 date: "August 9, 2016"
 output: html_document
+keep_md: true
 ---
 
 ```{r}
